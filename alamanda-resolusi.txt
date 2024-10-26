@@ -1,0 +1,4 @@
+ALAMANDA RESOLUSI 
+- Konsisten belajar terkait programming 
+- Mmebuat sebuah project web sederhana - menengah dengan menggunakan bahasa java yg mengimplementasikan konsep dari java OOP dengan sebuah interface yang proper 
+- Belajar penggunaan GIT dan GITHUB 
